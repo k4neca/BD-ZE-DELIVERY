@@ -19,3 +19,5 @@ Regras de negócio/requisitos:
 - Por fim, o banco de dados deverá registrar um relatório mensal de vendas, para que seja possível recuperar as informações sobre as lojas que estão vendendo mais bebidas. As seguintes informações precisam ser salvas: código do relatório, código da loja física, valor total de vendas, data início e data fim do relatório.
 
 Segue o print da estrutura do projeto conceitual do banco de dados do Zé Delivery conforme instruções do roteiro da atividade.
+
+<img src="https://github.com/k4neca/BD-ZE-DELIVERY/blob/main/bd_ze_delivey.drawio.png"/>
