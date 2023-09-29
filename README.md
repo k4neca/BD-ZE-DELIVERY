@@ -22,6 +22,6 @@ Segue o print da estrutura do projeto conceitual do banco de dados do Zé Delive
 
 <img src="https://github.com/k4neca/BD-ZE-DELIVERY/blob/main/bd_ze_delivey.drawio.png"/>
 
-Segue o print da projeto lógico solicitado pelo professor na aula do dia 22/09/2023 referente a segunda entrega.
+Segue o print da projeto lógico, solicitado pelo professor na aula do dia 22/09/2023 referente a segunda entrega.
 
 <img src="https://github.com/k4neca/BD-ZE-DELIVERY/blob/main/proj_logico.drawio.png"/>
